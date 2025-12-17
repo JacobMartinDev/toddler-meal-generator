@@ -1,0 +1,28 @@
+# CMake / build output
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+*.cmake
+Makefile
+compile_commands.json
+
+# Visual Studio / MSVC
+.vs/
+*.sln
+*.vcxproj*
+*.filters
+*.user
+*.suo
+*.VC.db
+*.VC.opendb
+*.pdb
+*.ilk
+*.obj
+*.tlog
+*.log
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/

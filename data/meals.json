@@ -1,0 +1,287 @@
+[
+    {
+      "id": "breakfast_banana_oat_pancakes",
+      "name": "Banana Oat Pancakes",
+      "meal_type": "breakfast",
+      "tags": ["soft", "quick", "kid-favorite"],
+      "allergens": ["egg"],
+      "ingredients": ["banana", "rolled oats", "egg", "cinnamon (optional)"],
+      "steps": ["Mash banana", "Mix in oats + egg", "Cook small pancakes on a lightly greased pan"]
+    },
+    {
+      "id": "breakfast_yogurt_berry_bowl",
+      "name": "Yogurt + Berry Bowl",
+      "meal_type": "breakfast",
+      "tags": ["no-cook", "quick", "cool"],
+      "allergens": ["dairy"],
+      "ingredients": ["plain yogurt", "blueberries or strawberries", "granola (optional)"],
+      "steps": ["Spoon yogurt into bowl", "Add berries", "Top with granola if desired"]
+    },
+    {
+      "id": "breakfast_egg_muffin_cups",
+      "name": "Egg Muffin Cups (Mini Omelets)",
+      "meal_type": "breakfast",
+      "tags": ["meal-prep", "protein", "finger-food"],
+      "allergens": ["egg", "dairy"],
+      "ingredients": ["eggs", "shredded cheese", "diced bell pepper", "spinach"],
+      "steps": ["Whisk eggs", "Mix in fillings", "Bake in muffin tin until set"]
+    },
+    {
+      "id": "breakfast_cinnamon_apple_oatmeal",
+      "name": "Cinnamon Apple Oatmeal",
+      "meal_type": "breakfast",
+      "tags": ["warm", "soft", "comfort"],
+      "allergens": [],
+      "ingredients": ["rolled oats", "milk or water", "diced apple", "cinnamon"],
+      "steps": ["Cook oats with milk/water", "Stir in diced apple", "Add cinnamon and simmer until soft"]
+    },
+    {
+      "id": "breakfast_avocado_toast_strips",
+      "name": "Avocado Toast Strips",
+      "meal_type": "breakfast",
+      "tags": ["finger-food", "quick"],
+      "allergens": ["gluten"],
+      "ingredients": ["toast", "avocado", "lemon juice (optional)", "salt (tiny pinch optional)"],
+      "steps": ["Toast bread", "Mash avocado", "Spread and cut into strips"]
+    },
+  
+    {
+      "id": "snack_banana_oat_bites",
+      "name": "Banana Oat Bites",
+      "meal_type": "snack",
+      "tags": ["baked", "finger-food", "portable"],
+      "allergens": ["gluten"],
+      "ingredients": ["banana", "rolled oats", "cinnamon (optional)"],
+      "steps": ["Mash banana", "Mix with oats", "Bake small scoops until set"]
+    },
+    {
+      "id": "snack_cheese_cracker_plate",
+      "name": "Cheese + Crackers Plate",
+      "meal_type": "snack",
+      "tags": ["no-cook", "quick"],
+      "allergens": ["dairy", "gluten"],
+      "ingredients": ["cheese slices", "crackers", "grapes (halved) or cucumber slices"],
+      "steps": ["Place cheese + crackers", "Add fruit/veg", "Serve"]
+    },
+    {
+      "id": "snack_apple_cinnamon_slices",
+      "name": "Apple Slices with Cinnamon",
+      "meal_type": "snack",
+      "tags": ["no-cook", "fresh"],
+      "allergens": [],
+      "ingredients": ["apple", "cinnamon (optional)"],
+      "steps": ["Slice apple thin", "Sprinkle cinnamon lightly", "Serve"]
+    },
+    {
+      "id": "snack_hummus_pita_triangles",
+      "name": "Hummus + Pita Triangles",
+      "meal_type": "snack",
+      "tags": ["savory", "dip"],
+      "allergens": ["gluten", "sesame"],
+      "ingredients": ["pita", "hummus", "cucumber sticks"],
+      "steps": ["Cut pita into triangles", "Serve with hummus", "Add cucumber on the side"]
+    },
+    {
+      "id": "snack_cottage_cheese_peach",
+      "name": "Cottage Cheese + Peaches",
+      "meal_type": "snack",
+      "tags": ["quick", "cool"],
+      "allergens": ["dairy"],
+      "ingredients": ["cottage cheese", "peach slices (fresh or canned in juice)"],
+      "steps": ["Spoon cottage cheese", "Top with peaches", "Serve"]
+    },
+  
+    {
+      "id": "lunch_turkey_cheese_rollups",
+      "name": "Turkey + Cheese Roll-Ups",
+      "meal_type": "lunch",
+      "tags": ["no-cook", "protein", "finger-food"],
+      "allergens": ["dairy"],
+      "ingredients": ["deli turkey", "cheese slice", "cucumber sticks"],
+      "steps": ["Lay turkey flat", "Add cheese", "Roll and slice into pinwheels"]
+    },
+    {
+      "id": "lunch_chicken_salad_wrap",
+      "name": "Chicken Salad Wrap (Simple)",
+      "meal_type": "lunch",
+      "tags": ["quick", "filling"],
+      "allergens": ["egg", "gluten"],
+      "ingredients": ["cooked chicken", "mayonnaise", "tortilla", "lettuce (optional)"],
+      "steps": ["Mix chicken + mayo", "Spread in tortilla", "Roll and slice"]
+    },
+    {
+      "id": "lunch_mac_and_peas",
+      "name": "Mac + Peas",
+      "meal_type": "lunch",
+      "tags": ["comfort", "easy", "kid-favorite"],
+      "allergens": ["gluten", "dairy"],
+      "ingredients": ["macaroni", "cheese", "peas", "milk (optional)"],
+      "steps": ["Cook macaroni", "Stir in cheese", "Mix in peas until warm"]
+    },
+    {
+      "id": "lunch_tuna_mayo_crackers",
+      "name": "Tuna Salad + Crackers",
+      "meal_type": "lunch",
+      "tags": ["quick", "protein"],
+      "allergens": ["fish", "egg", "gluten"],
+      "ingredients": ["canned tuna", "mayonnaise", "crackers", "pickle relish (optional)"],
+      "steps": ["Mix tuna + mayo", "Add relish if desired", "Serve with crackers"]
+    },
+    {
+      "id": "lunch_quesadilla_cheese_blackbeans",
+      "name": "Cheese + Black Bean Quesadilla",
+      "meal_type": "lunch",
+      "tags": ["quick", "melty", "protein"],
+      "allergens": ["dairy", "gluten"],
+      "ingredients": ["tortilla", "shredded cheese", "black beans (rinsed)", "salsa (optional)"],
+      "steps": ["Add cheese + beans to tortilla", "Fold and toast on pan", "Slice into wedges"]
+    },
+  
+    {
+      "id": "dinner_chicken_rice_broccoli",
+      "name": "Chicken, Rice, and Broccoli Bowl",
+      "meal_type": "dinner",
+      "tags": ["balanced", "classic"],
+      "allergens": [],
+      "ingredients": ["cooked chicken", "cooked rice", "steamed broccoli", "butter (optional)"],
+      "steps": ["Warm chicken + rice", "Add steamed broccoli", "Mix and serve"]
+    },
+    {
+      "id": "dinner_spaghetti_meat_sauce",
+      "name": "Spaghetti with Meat Sauce",
+      "meal_type": "dinner",
+      "tags": ["comfort", "family-meal"],
+      "allergens": ["gluten"],
+      "ingredients": ["spaghetti", "ground beef or turkey", "marinara sauce", "parmesan (optional)"],
+      "steps": ["Cook spaghetti", "Brown meat", "Add marinara and simmer", "Combine and serve"]
+    },
+    {
+      "id": "dinner_baked_salmon_sweet_potato",
+      "name": "Baked Salmon + Sweet Potato",
+      "meal_type": "dinner",
+      "tags": ["simple", "omega"],
+      "allergens": ["fish"],
+      "ingredients": ["salmon", "sweet potato", "olive oil", "salt/pepper (optional)"],
+      "steps": ["Bake salmon until flaky", "Bake or microwave sweet potato", "Serve together"]
+    },
+    {
+      "id": "dinner_beef_taco_bowl",
+      "name": "Beef Taco Bowl",
+      "meal_type": "dinner",
+      "tags": ["customizable", "family-meal"],
+      "allergens": ["dairy"],
+      "ingredients": ["ground beef", "rice", "cheese (optional)", "tomatoes", "avocado"],
+      "steps": ["Brown beef with mild seasoning", "Assemble over rice", "Top with tomatoes/avocado/cheese"]
+    },
+    {
+      "id": "dinner_vegetable_fried_rice_no_soy",
+      "name": "Veggie Fried Rice (No Soy Sauce)",
+      "meal_type": "dinner",
+      "tags": ["one-pan", "leftovers"],
+      "allergens": ["egg"],
+      "ingredients": ["cooked rice", "egg", "peas and carrots", "garlic powder", "salt (tiny pinch optional)"],
+      "steps": ["Scramble egg in pan", "Add veggies", "Add rice and stir-fry", "Season lightly"]
+    },
+    {
+      "id": "dinner_meatballs_mashed_potatoes",
+      "name": "Meatballs + Mashed Potatoes",
+      "meal_type": "dinner",
+      "tags": ["comfort", "hearty"],
+      "allergens": ["gluten", "egg", "dairy"],
+      "ingredients": ["meatballs", "potatoes", "milk", "butter", "breadcrumbs"],
+      "steps": ["Cook meatballs", "Boil and mash potatoes with milk/butter", "Serve together"]
+    },
+    {
+      "id": "dinner_chicken_alfredo_peas",
+      "name": "Chicken Alfredo with Peas",
+      "meal_type": "dinner",
+      "tags": ["comfort", "creamy"],
+      "allergens": ["gluten", "dairy"],
+      "ingredients": ["pasta", "cooked chicken", "alfredo sauce", "peas"],
+      "steps": ["Cook pasta", "Warm sauce + chicken", "Stir in peas", "Combine"]
+    },
+    {
+      "id": "dinner_mini_pizzas",
+      "name": "Mini Pizzas (English Muffin or Pita)",
+      "meal_type": "dinner",
+      "tags": ["fun", "build-your-own"],
+      "allergens": ["gluten", "dairy"],
+      "ingredients": ["english muffins or pita", "pizza sauce", "mozzarella", "pepperoni (optional)"],
+      "steps": ["Top base with sauce", "Add cheese + toppings", "Bake until cheese melts"]
+    },
+    {
+      "id": "dinner_chili_mild",
+      "name": "Mild Bean Chili",
+      "meal_type": "dinner",
+      "tags": ["one-pot", "warm"],
+      "allergens": [],
+      "ingredients": ["black beans", "kidney beans", "diced tomatoes", "onion (optional)", "mild chili seasoning"],
+      "steps": ["Combine in pot", "Simmer 15–25 minutes", "Serve with rice or bread if desired"]
+    },
+    {
+      "id": "dinner_sausage_peppers_pasta",
+      "name": "Sausage + Peppers Pasta",
+      "meal_type": "dinner",
+      "tags": ["family-meal", "quick"],
+      "allergens": ["gluten"],
+      "ingredients": ["pasta", "sausage", "bell peppers", "marinara"],
+      "steps": ["Cook pasta", "Brown sausage + peppers", "Add marinara", "Combine"]
+    },
+  
+    {
+      "id": "snack_fruit_smoothie",
+      "name": "Fruit Smoothie",
+      "meal_type": "snack",
+      "tags": ["drink", "cool", "quick"],
+      "allergens": ["dairy"],
+      "ingredients": ["milk or yogurt", "banana", "frozen berries", "honey (optional, if age-appropriate)"],
+      "steps": ["Add ingredients to blender", "Blend until smooth", "Serve cold"]
+    },
+    {
+      "id": "breakfast_french_toast_sticks",
+      "name": "French Toast Sticks",
+      "meal_type": "breakfast",
+      "tags": ["kid-favorite", "finger-food"],
+      "allergens": ["egg", "dairy", "gluten"],
+      "ingredients": ["bread", "egg", "milk", "cinnamon (optional)"],
+      "steps": ["Whisk egg + milk", "Dip bread strips", "Cook on pan until golden"]
+    },
+    {
+      "id": "lunch_grilled_cheese_tomato_soup",
+      "name": "Grilled Cheese + Tomato Soup",
+      "meal_type": "lunch",
+      "tags": ["comfort", "classic"],
+      "allergens": ["dairy", "gluten"],
+      "ingredients": ["bread", "cheese", "butter", "tomato soup"],
+      "steps": ["Make grilled cheese", "Warm soup", "Serve together"]
+    },
+    {
+      "id": "dinner_roast_chicken_veggies",
+      "name": "Roast Chicken + Mixed Veggies",
+      "meal_type": "dinner",
+      "tags": ["simple", "balanced"],
+      "allergens": [],
+      "ingredients": ["chicken", "carrots", "green beans", "olive oil", "seasoning (optional)"],
+      "steps": ["Roast chicken until done", "Roast/steam veggies", "Serve"]
+    },
+    {
+      "id": "lunch_pasta_salad_simple",
+      "name": "Simple Pasta Salad",
+      "meal_type": "lunch",
+      "tags": ["cold", "easy"],
+      "allergens": ["gluten", "dairy"],
+      "ingredients": ["pasta", "cucumber", "tomatoes", "cheese cubes", "italian dressing"],
+      "steps": ["Cook and cool pasta", "Mix veggies + cheese", "Toss with dressing"]
+    },
+    {
+      "id": "snack_popcorn_butter",
+      "name": "Buttered Popcorn (Toddler-Safe Pieces)",
+      "meal_type": "snack",
+      "tags": ["movie-night", "simple"],
+      "allergens": ["dairy"],
+      "ingredients": ["popcorn", "butter", "salt (optional)"],
+      "steps": ["Pop popcorn", "Add melted butter", "Serve appropriately for age/safety"]
+    }
+  ]
+  
+  
