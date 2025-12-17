@@ -16,3 +16,35 @@ From the project root folder:
 cmake -S . -B build
 cmake --build build --config Debug
 .\build\Debug\tmg.exe
+```
+
+## How to Use
+
+The app will prompt you for:
+
+Meal type: breakfast, lunch, dinner, snack (or press Enter to skip)
+
+Keywords: comma-separated (or press Enter to skip)
+
+Example: quick, finger-food
+
+Avoid allergens: comma-separated (or press Enter to skip)
+
+Example: peanut, soy
+
+## Data Format
+
+Meals: data/meals.json
+Favorites: data/favorites.json
+
+Meal fields:
+
+id, name, meal_type
+
+tags (keywords), allergens
+
+ingredients, steps
+
+## Notes
+
+Always double-check packaged food labels for allergens.
